@@ -9,6 +9,6 @@ export default defineConfig({
   plugins: [react(),
      tailwindcss(),
  ],
- base: "/Project-1"
+ base: "/Project--1"
 
 })
